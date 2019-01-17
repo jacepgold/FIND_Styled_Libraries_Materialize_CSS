@@ -8,3 +8,18 @@ main {
   flex: 1 0 auto;
   padding-top: 15px;
 }
+
+#contact-form {
+  background-color: rgb(209, 205, 205);
+  padding: 25px;
+  margin-top: 15px;
+  border-top-left-radius: 25px;
+}
+
+/* Make the paragraph text wrap around the image */
+p img {
+  width: 250px;
+  height: auto;
+  float: left;
+  margin-right: 15px;
+}
